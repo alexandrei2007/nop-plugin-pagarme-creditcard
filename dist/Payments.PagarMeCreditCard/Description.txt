@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Pagar.me CreditCard
+SystemName: Payments.PagarMeCreditCard
+Version: 1.0
+SupportedVersions: 3.70
+Author: alexandreh.ito@gmail.com
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.PagarMeCreditCard.dll
